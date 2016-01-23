@@ -9,4 +9,3 @@ You can easily have this running on your own server.
 
 About
 ---
-I liked the effect from this [Youtube video](https://www.youtube.com/watch?v=DLyPvuSx7qA) and wanted to recreate it. I created it without looking at the source code included.
