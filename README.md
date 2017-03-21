@@ -9,7 +9,6 @@ You can easily have this running on your own server.
 5. Run `grunt` to run everything or `grunt buildAll` to compile the src
 6. Connect to localhost:3000
 
-
 About
 ---
 A blank template to create a webpage
